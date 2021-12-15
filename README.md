@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-Deployed Site:  
+Deployed Site:  https://kdher.github.io/Weather-Dashboard/
 
 Description:
 Enter any city name and get a detailed report on the daily weather as well as the upcoming five day forecast. All city searches are saved in the sidebar so that you can quickly click through and stay up to date on the local weather you care about. 
